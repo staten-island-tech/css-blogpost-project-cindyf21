@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(199, 230, 248);
+}
+.background{
+    background-color: rgb(158, 220, 248);
+    margin: 10px auto;
+    padding: 10px 10px;
+    position: absolute;
+    top: 50px;
+}
+.main-header{
+    color: black;
+    margin: 45px auto;
+    background-color: white;
+    padding: 30px 25px;
+    width: 20vw;
+    font-size: 50px;
+}
+.subheadings{
+    color: rgb(0, 96, 185);
+    margin: 50px auto;
+    font-size: 35px;
+}
+.description{
+    color: black;
+    margin: 50px auto;
+    font-family: 'Saira Condensed', sans-serif;
+    font-size: 25px;
+}
+span{
+    font-weight: bold;
+}
