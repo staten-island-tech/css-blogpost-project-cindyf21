@@ -4,7 +4,7 @@ body{
     justify-content: center;
 }
 .background{
-    background-color: rgb(158, 220, 248);
+    background-color: rgb(255,231,155);
     margin: 10px auto;
     padding: 50px 50px;
     position: absolute;
@@ -13,21 +13,23 @@ body{
 .main-header{
     color: black;
     margin: 45px auto;
-    background-color: white;
+    background-color: rgb(255, 253, 155);
     padding: 30px 25px;
     width: 20vw;
     font-size: 50px;
 }
 .subheadings{
-    color: rgb(0, 96, 185);
+    color: black;
     margin: 50px auto;
     font-size: 35px;
+    text-align: center;
 }
 .description{
     color: black;
     margin: 50px auto;
     font-family: 'Saira Condensed', sans-serif;
     font-size: 25px;
+    text-align: center;
 }
 span{
     font-weight: bold;
